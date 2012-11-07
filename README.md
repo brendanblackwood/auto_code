@@ -16,6 +16,6 @@ Usage
 
 #### In another terminal prompt
 
-	node parse.js
+	node auto_code.js
 
 Unplug your keyboard and pretend to type!
